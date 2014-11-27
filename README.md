@@ -15,7 +15,7 @@ And there are some useful features (tweaks):
 - Enable or disable blank passwords on remote logon
  
 Attention:<br>
-This patcher support only Windows XP (Service Pack 2 and 3) and x86 system architecture.
+This patcher support only Windows XP (Service Pack 2 and 3) and x86 system architecture.<br>
 Now we are trying to make patching support for SP 1 (termsrv.dll version 5.1.2600.1106).
  
 Video instruction (how to enable RDP on Windows XP Home Edition):<br>
