@@ -1,9 +1,9 @@
 Terminal Services Realtime Patch for Windows XP by Stas'M
 =======
 
-Terminal Services Realtime Patch by Stas'M allows you to patch remote desktop concurrent sessions on Windows XP box and also able to unlock remote desktop on Windows XP Home Edition. And you don't need to change your OS edition or reboot the computer. Patch works in realtime in 2 stages:
+Terminal Services Realtime Patch by Stas'M allows you to patch remote desktop concurrent sessions on Windows XP box and also able to unlock remote desktop on Windows XP Home Edition. And you don't need to change your OS edition or reboot the computer. Patch works in realtime in 2 stages:<br>
 <u>Stage 1:</u>
-- Apply patch to the Terminal Services process memory (that's why no reboot required).
+- Apply patch to the Terminal Services process memory (that's why no reboot required).<br>
 <u>Stage 2:</u>
 - Patch the termsrv.dll in the system folder.
  
@@ -14,15 +14,15 @@ And there are some useful features (tweaks):
 - Single or multiple sessions per user
 - Enable or disable blank passwords on remote logon
  
-Attention:
+Attention:<br>
 This patcher support only Windows XP (Service Pack 2 and 3) and x86 system architecture.
 Now we are trying to make patching support for SP 1 (termsrv.dll version 5.1.2600.1106).
  
-Video instruction (how to enable RDP on Windows XP Home Edition):
+Video instruction (how to enable RDP on Windows XP Home Edition):<br>
 http://www.youtube.com/watch?v=slG5paz8r8E
  
-References:
-http://wasm.ru/forum/viewtopic.php?pid=404047
+References:<br>
+http://wasm.ru/forum/viewtopic.php?pid=404047<br>
 http://fouroom.ru/viewtopic.php?id=347 (post #8)
  
 Other patchers:
